@@ -1,0 +1,11 @@
+D:\spayusodev\EventStoreExample\bin\Debug\netcoreapp2.1\EventStoreExample.deps.json
+D:\spayusodev\EventStoreExample\bin\Debug\netcoreapp2.1\EventStoreExample.runtimeconfig.json
+D:\spayusodev\EventStoreExample\bin\Debug\netcoreapp2.1\EventStoreExample.runtimeconfig.dev.json
+D:\spayusodev\EventStoreExample\bin\Debug\netcoreapp2.1\EventStoreExample.dll
+D:\spayusodev\EventStoreExample\bin\Debug\netcoreapp2.1\EventStoreExample.pdb
+D:\spayusodev\EventStoreExample\obj\Debug\netcoreapp2.1\EventStoreExample.csprojAssemblyReference.cache
+D:\spayusodev\EventStoreExample\obj\Debug\netcoreapp2.1\EventStoreExample.csproj.CoreCompileInputs.cache
+D:\spayusodev\EventStoreExample\obj\Debug\netcoreapp2.1\EventStoreExample.AssemblyInfoInputs.cache
+D:\spayusodev\EventStoreExample\obj\Debug\netcoreapp2.1\EventStoreExample.AssemblyInfo.cs
+D:\spayusodev\EventStoreExample\obj\Debug\netcoreapp2.1\EventStoreExample.dll
+D:\spayusodev\EventStoreExample\obj\Debug\netcoreapp2.1\EventStoreExample.pdb
